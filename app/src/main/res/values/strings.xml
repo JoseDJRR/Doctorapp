@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Doctorapp</string>
+    <string-array name="bloodType">
+        <item>O-</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>AB+</item>
+    </string-array>
+</resources>
